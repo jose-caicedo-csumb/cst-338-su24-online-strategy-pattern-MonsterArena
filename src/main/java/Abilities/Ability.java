@@ -1,6 +1,8 @@
+package Abilities;
+
 /**
  * Author: Jose Caicedo Created on: 7/14/25 Description:
  */
-public class MeleeAttack {
+public class Ability {
 
 }
