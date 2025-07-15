@@ -6,7 +6,7 @@
  * they attack each other until one dies.
  */
 
-import Monsters.*;
+import monsters.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

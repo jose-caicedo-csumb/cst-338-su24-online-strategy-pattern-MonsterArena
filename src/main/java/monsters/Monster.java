@@ -5,7 +5,7 @@
  * Provides shared attributes and behavior.
  */
 
-package Monsters;
+package monsters;
 
 import Abilities.Attack;
 import java.util.HashMap;

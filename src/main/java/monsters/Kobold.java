@@ -5,7 +5,7 @@
  * initializes stats using randomized values and uses a RangedAttack ability.
  */
 
-package Monsters;
+package monsters;
 
 import Abilities.RangedAttack;
 import java.util.HashMap;

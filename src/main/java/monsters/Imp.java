@@ -6,7 +6,7 @@
  * MeleeAttack.
  */
 
-package Monsters;
+package monsters;
 
 import Abilities.MeleeAttack;
 import java.util.HashMap;
